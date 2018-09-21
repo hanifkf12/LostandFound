@@ -1,0 +1,93 @@
+<resources>
+
+    //Judul
+    <string name="app_name"><![CDATA[Lost & Found]]></string>
+
+    //Pengguna
+    <string name="username">Nama</string>
+    <string name="email">email@gmail.com</string>
+
+    //Judul Atas
+    <string name="top_home">Halaman Utama</string>
+    <string name="new_post">Post Baru</string>
+    <string name="match_post">Rekomendasi Post</string>
+
+    //Navigasi Bawah
+    <string name="home">Home</string>
+    <string name="sugestion">Sugestion</string>
+    <string name="post">Post</string>
+    <string name="notification">Notifikasi</string>
+    <string name="profile">Profile</string>
+
+    //Masuk
+    <string name="email_pengguna">Email</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="masuk">Masuk</string>
+    <string name="tidak_mempunyai_akun_daftar_disini">Tidak mempunyai Akun? Daftar disini</string>
+
+    //List Detail
+    <string name="details">Detail</string>
+    <string name="lorem_ipsum_1">lorem ipsum dolor sir amet</string>
+    <string name="category">Kategori</string>
+    <string name="item">Item</string>
+    <string name="_25_comments">25 Komentar</string>
+
+    //Komentar
+    <string name="tulis_komentar">Tulis Komentar...</string>
+
+    //Cari
+    <string name="search">Cari...</string>
+
+    //Post Baru
+    <string name="ditemukan">Ditemukan</string>
+    <string name="hilang">Hilang</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="lokasi">Lokasi</string>
+
+    //Profile
+    <string name="edit_profile">Ubah Profile</string>
+    <string name="ubah_identitas_pengguna">Mengubah identitas pengguna</string>
+    <string name="help">Batuan</string>
+    <string name="contact_teamequinox_gmail_com">contact.teamequinox@gmail.com</string>
+    <string name="about">Tentang</string>
+    <string name="versi_1_0">Versi 1.0</string>
+    <string name="sign_out">Keluar</string>
+
+    //Edit Profile
+    <string name="nama_anda">Nama Anda</string>
+    <string name="alamat">Alamat</string>
+    <string name="nomor_hp">Nomor HP</string>
+
+    //Spinner Kategori
+    <string-array name="kategori">
+        <item>-- Pilih Kategori --</item>
+        <item>Aksesoris</item>
+        <item>Gadget</item>
+        <item>Hewan</item>
+        <item>Otomotif</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    //lokasi
+    <string name="title_activity_get_location">GetLocationActivity</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="email2">Email</string>
+    <string name="ulang_kata_sandi">Ulang Kata Sandi</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_mempunyai_akun_masuk_disini">Sudah mempunyai Akun? Masuk disini</string>
+    <string name="tidak_ada_postingan">Tidak Ada Postingan</string>
+    <string name="belum_ada_pengguna_yang_memposting_kehilangan_penemuan_barang">Belum ada pengguna yang memposting kehilangan / penemuan barang</string>
+    <string name="tidak_ada_notifikasi">Tidak Ada Notifikasi</string>
+    <string name="anda_belum_memposting_apapun">Anda belum memposting apapun</string>
+    <string name="lupa_password">Lupa Password</string>
+    <string name="setel_ulang">Kirim</string>
+    <string name="sudah_ingat_password_masuk_disini">Sudah ingat Kata Sandi? Masuk disini</string>
+    <string name="lupa_kata_sandi_klik_disini">Lupa Kata Sandi? Klik disini</string>
+    <string name="ganti_password">Ganti Kata Sandi</string>
+    <string name="ganti_kata_sandi">Ganti Kata Sandi</string>
+    <string name="kata_sandi_lama">Kata Sandi Lama</string>
+    <string name="kata_sandi_baru">Kata Sandi Baru</string>
+    <string name="ketik_ulang_kata_sandi">Ketik Ulang Kata Sandi</string>
+
+</resources>
